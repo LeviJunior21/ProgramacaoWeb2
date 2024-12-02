@@ -1,0 +1,3 @@
+- React: Biblioteca JavaScript desenvolvida pelo Facebook para criar interfaces mais dinâmicas e interativas. 
+- Bootstrap: Coleção de estilos pré-construidos e componentes. 
+- Angular: Integração nativa para APIs e controle de estado da aplicação. 
