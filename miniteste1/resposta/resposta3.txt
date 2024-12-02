@@ -1,9 +1,18 @@
-O Versionamento de Código é o processo de gerenciar mudanças de código-fonte ao longo do tempo, garantindo o histórico e rastreabilidade. 
-A partir do Versionamento de Código, é possível ter melhor rastreabilidade, colaboração e controle de versões. 
-Além disso, a partir do versionamento de código, os profisionais podem criar suas branchs para que não haja conflito. 
+Questão 3 - O que é versionamento de código e por que ele é essencial no
+desenvolvimento colaborativo de software?
+
+O Versionamento de Código é o processo de gerenciar mudanças de 
+código-fonte ao longo do tempo, garantindo o histórico e rastreabilidade. 
+A partir do Versionamento de Código, é possível ter melhor rastreabilidade, 
+colaboração e controle de versões. 
+Além disso, a partir do versionamento de código, os profisionais podem 
+criar suas branchs para que não haja conflito. 
 
 Existem algumas ferramentas que podemos usar no Versionamento de código, como: 
-- GitHub Actions: Automatiza pipelines CI/CD. Ela é ideal para executar testes em APIs, deploys e validaçãom de segurança; 
+- GitHub Actions: Automatiza pipelines CI/CD. Ela é ideal para executar 
+testes em APIs, deploys e validaçãom de segurança; 
 - GitHub Code review: Permite revisão colaborativa através de Pull Requests; 
-- GitLab Deploy automatizado: Pipelines diretamente conectados ao Kubernets ou servidores para deploy de backend; 
-- GitLab Ambientes Dinâmicos: Permite criar ambientes temporários para testar alterações na API antes do merge. 
+- GitLab Deploy automatizado: Pipelines diretamente conectados ao Kubernets ou 
+servidores para deploy de backend; 
+- GitLab Ambientes Dinâmicos: Permite criar ambientes temporários para testar 
+alterações na API antes do merge. 

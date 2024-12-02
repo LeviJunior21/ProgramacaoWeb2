@@ -1,0 +1,23 @@
+Questão 5 - Considere o cenário em que você está trabalhando em um projeto
+de site com sua dupla. Qual seria sua abordagem inicial para
+organizar as tarefas, escolher ferramentas e implementar boas
+práticas de versionamento e desenvolvimento?
+
+Alinharia com a dupla os requisitos e expectativas do projeto.
+Depois realizaria a divisão de tarefas e utilizaria metodologias ágeis como 
+Scrum para gerenciar as atividades.
+Dividiria o trabalho em etapas menores e bem definidas, como design, 
+desenvolvimento, teste, etc.
+
+Em seguida, escolheria um editor de texto ou IDE comum, como VS Code. 
+Selecionaria tecnologias adequadas ao projeto, como React, Angular, 
+dependendo dos requisitos.
+
+Para o versionamento, eu criaria um repositório no GitHub e 
+saparava cada parte do projeto em branchs para cada desenvolvedor. 
+Para cada implementação, realizariamos testes para o que foi implementado. 
+Realizariamos commits claros a cada implementação feita. 
+
+Documentariamos o nosso projeto, no README ou outro tipo de documento. 
+Fariamos reuniões para discutir o que foi feito e as dificuldades. 
+E usariamos comunicação e feedback para discutir como algo pode ser melhorado. 
