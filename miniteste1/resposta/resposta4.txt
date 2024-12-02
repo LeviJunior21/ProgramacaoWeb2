@@ -1,0 +1,4 @@
+O JavaScript moderno é uma Linguagem de Programação de alto nível, interpretada, leve e baseada em eventos, usada prinipalmente para 
+adicionar interatividade em páginas Web. 
+A linguagem de programação JavaScript foi criado para resolver um problema principal que era tornar os sites mais dinamicos, os desenvolvedores 
+precisam de uma linguagem que rodasse diretamente no navegador; manipulando elementos da página sem depender dos servidores. 
