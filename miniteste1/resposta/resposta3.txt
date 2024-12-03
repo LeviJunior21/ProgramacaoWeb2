@@ -8,6 +8,15 @@ colaboração e controle de versões.
 Além disso, a partir do versionamento de código, os profisionais podem 
 criar suas branchs para que não haja conflito. 
 
+O versionamento é essencial, pois ele implementa a 
+- Rastreabilidade: Mantém o histórico de alterações, e assim, podemos identificar 
+quando e por quem uma modificação foi feita. 
+- Colaboração eficiente: Desenvolvedores trabalham em paralelo, criando branches 
+isoladas para implementar funcionalidades e corrigir problemas. E isso evita 
+conflitos na branch principal, main. 
+- Gerenciamento de conflitos: Ferramenta de versionamento ajudam a resolver 
+conflitos de forma eficiente, integrando alterações em diferentes branches. 
+
 Existem algumas ferramentas que podemos usar no Versionamento de código, como: 
 - GitHub Actions: Automatiza pipelines CI/CD. Ela é ideal para executar 
 testes em APIs, deploys e validaçãom de segurança; 

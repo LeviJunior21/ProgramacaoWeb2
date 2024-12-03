@@ -9,3 +9,16 @@ A linguagem de programação JavaScript foi criado para resolver um
 problema principal que era tornar os sites mais dinamicos, os 
 desenvolvedores precisam de uma linguagem que rodasse diretamente no 
 navegador; manipulando elementos da página sem depender dos servidores. 
+
+O JavaScript permite criar experiências dinâmicas, como animações, eventos, 
+atualizações de conteúdos com base em interações entre usuário e o front-end 
+ou o front-end e o back-end. 
+JavaScript foi criado para rodar no navegador do usuário, manipulando os 
+elementos da página (DOM) sem a necessidade de interação com servidores. 
+JavaScript é suportado todos navegadores modernos e possui várias bibliotecas 
+e frameworks, como React, Bootstrap, Angular, dentre outros, que ajudam no 
+desenvolvimento de aplicações web. 
+Além disso, ele também tem integração com APIs externas, como mapas, 
+redes sociais, dentre outros. 
+E através do Node.js, o JavaScript também é usado no desenvolvimento de 
+servidores, possibilitando a criação de aplicações completas com a mesma linguagem. 

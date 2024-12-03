@@ -3,6 +3,13 @@ desenvolvimento web e explique como elas ajudam no processo
 de criação de aplicações web.
 
 - React: Biblioteca JavaScript desenvolvida pelo Facebook para criar interfaces 
-mais dinâmicas e interativas. 
-- Bootstrap: Coleção de estilos pré-construidos e componentes. 
-- Angular: Integração nativa para APIs e controle de estado da aplicação. 
+mais dinâmicas e interativas. O React facilita a construção de aplicações modernas 
+com componentes reutilizáveis. 
+
+- Bootstrap: Coleção de estilos pré-construidos e componentes. O Bootstrap tem 
+templates prontos para criar interfaces consistentes e responsivas, adaptando-se 
+a diferentes tamanho de tela. 
+
+- Angular: É um framework desenvolvido pela Google, focado em construir aplicações 
+web completas e de grande escala, ela fornece integração nativa para APIs e controle 
+de estado da aplicação. 
